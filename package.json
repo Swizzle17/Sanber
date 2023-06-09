@@ -1,0 +1,14 @@
+{
+  "name": "lawencon-1",
+  "version": "1.0.0",
+  "description": "belajar javascript sanber",
+  "main": "index.js",
+  "scripts": {
+    "start": "node print.js"
+  },
+  "author": "Irene",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
